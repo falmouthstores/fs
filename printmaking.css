@@ -12,10 +12,15 @@ width: 400px !important;
 background-color: #dbf0c7 !important;
 }
 */
+/*Set the background colours*/
 .bs-booking-node{ 
 background-color: #982323 !important;
 /*font-size: 22px !important;*/
 }
 .bs-item-tab {
     background-color: rgb(128, 128, 128) !important;
+}
+/*Remove the fullscreen button */
+#bs_fullscreen_toggle {
+  display: none !important;
 }
