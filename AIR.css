@@ -1,0 +1,26 @@
+/*Font size of room or asset name */
+.bs-item-text {
+font-size: 1.6rem!important;
+}
+/*fix the colour and width of the room name cell - width needs customisation for each board */
+.bs-item {
+background-color: #f9f9f9 !important;
+width: 400px !important;   
+}
+/* not used
+.bs-chart-item {
+background-color: #dbf0c7 !important;
+}
+*/
+/*Set the background colours*/
+.bs-booking-node{ 
+background-color: #982323 !important;
+/*font-size: 22px !important;*/
+}
+.bs-item-tab {
+    background-color: rgb(128, 128, 128) !important;
+}
+/*Remove the fullscreen button */
+#bs_fullscreen_toggle {
+  display: none !important;
+}
